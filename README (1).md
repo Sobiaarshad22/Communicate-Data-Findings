@@ -36,6 +36,17 @@ MonthlyLoanPayment : Monthly loan payment amount
 
 LoanOriginalAmount : Original amount of the loan
 
+What is/are the main feature(s) of interest in this dataset?
+APR is a simple percentage term used to express the numerical amount paid by an individual or entity yearly for the privilege of borrowing money.
+Questions Posed?
+I am mostly interested in predicting :
+1-what features are best for predicting cost of credit as a yearly rate which is Borrowers Annual percentage Rate(APR) for the loan?
+2-Does Term affects APR?
+3-Is APR higher than Interest rate?
+4- How monthly Income of a person effects his loan amount?
+5-Can Earning more money will affect the ability to apply for more loan amount?
+6- how Prosper Rating is affecting other variables of interest in this loan system?
+
 
 ## Summary of Findings
 
